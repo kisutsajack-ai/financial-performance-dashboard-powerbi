@@ -1,4 +1,4 @@
-# financial-performance-dashboard-powerbi
+# financial-performance-dashboard-powerbi ![Dashboard Overview](dashboard-overview.png)
 Financial performance dashboard built in Power BI analyzing revenue, expenses, profit, and budget variance.
 
 **Financial Performance Dashboard – Power BI**
