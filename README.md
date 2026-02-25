@@ -1,34 +1,40 @@
-# financial-performance-dashboard-powerbi ![Dashboard Overview](dashboard-overview.png)
-Financial performance dashboard built in Power BI analyzing revenue, expenses, profit, and budget variance.
+# 📊 Financial Performance Dashboard – Power BI
 
-**Financial Performance Dashboard – Power BI**
-**Project Overview**
+![Dashboard Overview](dashboard-overview.png)
+
+## 📌 Project Overview
 This project analyzes company revenue, expenses, profitability, and budget performance using Power BI.
 
-**Business Problem**
+## 🎯 Business Problem
 Management required a centralized financial reporting tool to monitor performance across departments and regions.
 
-**Data Preparation**
-Cleaned transaction data using Power Query
-Verified data types
-Created calculated Profit column
-Implemented star schema model
+## 🧹 Data Preparation
+- Cleaned transaction data using Power Query
+- Verified data types
+- Created calculated Profit column
+- Implemented star schema model
 
-**KPIs Built**
-Total Revenue
-Total Expenses
-Total Profit
-Profit Margin %
-Budget Variance
-YTD Revenue
+## 📐 Data Modeling
+- Fact table: Fact_Transactions
+- Dimension tables: Dim_Department, Dim_Region
+- Built star schema relationships
 
-**Key Insights**
-Sales department generated highest profit
-Profit margin exceeded 50%
-Budget variance identified minor underperformance
+## 📊 KPIs Built
+- Total Revenue
+- Total Expenses
+- Total Profit
+- Profit Margin %
+- Budget Variance
+- YTD Revenue
 
-**Tools Used**
-Power BI Desktop
-DAX
-Power Query
-Data Modeling
+## 🔍 Key Insights
+- Sales department generated highest profit
+- Profit margin exceeded 50%
+- Minor negative budget variance observed
+- Revenue trends show stable growth pattern
+
+## 🛠 Tools Used
+- Power BI Desktop
+- DAX
+- Power Query
+- Data Modeling
