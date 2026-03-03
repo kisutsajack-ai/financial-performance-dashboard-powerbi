@@ -3,7 +3,7 @@
 ![Dashboard Overview](dashboard-overview.png)
 
 ## 📌 Project Overview
-This project analyzes company revenue, expenses, profitability, and budget performance using Power BI.
+This project analyzes company revenue, expenses, profitability and budget performance using Power BI.
 
 ## 🎯 Business Problem
 Management required a centralized financial reporting tool to monitor performance across departments and regions.
